@@ -1,0 +1,3 @@
+Top-down parsing starts from the root and builds the tree downward using leftmost derivation. 
+Bottom-up parsing works in reverse, starting from leaves and combining tokens until it reaches the start symbol. 
+Bottom-up is more powerful and used in tools like YACC.
